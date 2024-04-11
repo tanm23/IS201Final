@@ -1,0 +1,77 @@
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+ 
+  #background-video {
+    width: 100vw;
+    height: 100vh;
+    object-fit: cover;
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    z-index: -1;
+  }
+  .largetext {
+    font-size: x-large;
+
+  }
+  
+  /* Font styles */
+body {
+  font-family: Arial, sans-serif;
+  color: #333;
+}
+
+
+.style1 {
+  font-size: xx-large;
+}
+/* Dance list styles */
+
+.dance-list1 {
+  padding: 5px 10px;
+  color: #13b7c6;
+  font-weight: normal;
+  margin-bottom: 5px;
+  border-radius: 5px;
+}
+.dance-list2 {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: medium;
+  font-weight: bold;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+
+
+/* Styled divs */
+.styled-div1 {
+  background-color: #ffa07a;
+  color: #fff;
+  padding: 20px;
+  margin-top: 20px;
+}
+
+.styled-div2 {
+  color: #13b7c6;
+  color: #fff;
+  padding: 20px;
+  margin-top: 20px;
+}
+
+.styled-div3 {
+  background-color: #90ee90;
+  color: #333;
+  padding: 20px;
+  margin-top: 20px;
+}
+
+body {
+  background-color: #818181; /* Light gray color */
+}
